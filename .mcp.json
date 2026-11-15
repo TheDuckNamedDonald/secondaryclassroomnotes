@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "omegaindexer": {
+      "type": "http",
+      "url": "https://mcp.omegaindexer.com/mcp"
+    }
+  }
+}
